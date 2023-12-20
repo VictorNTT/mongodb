@@ -1,0 +1,30 @@
+
+mongosh
+see: https://www.mongodb.com/docs/mongodb-shell/run-commands/
+
+log in:
+$ mongodb
+
+or equivalent
+$ mongosh "mongodb://localhost:27017"
+
+
+$ show databases
+$ use <db name>
+$ show collections
+
+CRUD https://www.mongodb.com/docs/mongodb-shell/crud/
+
+$ db.<collection-name>.find()   # select all
+$ db.<collection-name>.deleteMany({})   # delete all
+$ db.<collection-name>.insertOne({"name": "Jane"})
+$ db.<collection-name>.insertMany([{"name": "Joe"}, {"name": "Josh"}])
+
+$ db.createCollection("myCollection")
+$ db.<collection-name>.drop()  # delete a collection
+
+using RegEx
+Find movie title marching %va%  (select * from Cineplex where title like '%va%')
+db.Cineplex.find({"title": /.va.*/});
+
+

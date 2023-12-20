@@ -1,0 +1,57 @@
+[
+{  
+  "isbn": "10001",
+  "title": "For Whom The Bell Tolls",
+  "authorFirstName": "Earnest",
+  "authorLastName": "Hemmingway",
+  "edition": 1,  
+  "year": 1948,
+  "style": ["soft paper"]
+},
+{
+  "isbn": "10002",
+  "title": "Farewell To Arms",
+  "authorFirstName": "Earnest",
+  "authorLastName": "Hemmingway",
+  "edition": 3,
+  "year": 1950,
+  "style": ["Hardcover", "Paperback"]
+},
+{
+  "isbn": "10003",
+  "title": "The Old Man and the Sea",
+  "authorFirstName": "Earnest",
+  "authorLastName": "Hemmingway",
+  "edition": 1,
+  "year": 1952,
+  "style": ["Hardcover", "Paperback"]
+},
+{
+  "isbn": "10004",
+  "title": "Harry Porter - Chamber of Secrets",
+  "authorFirstName": "Joanne",
+  "authorLastName": "Rowling",
+  "edition": 1,
+  "year": 1998,
+  "style": ["Hardcover", "Paperback"]
+},
+{
+  "isbn": "10005",
+  "title": "Anne of Green Gables",
+  "authorFirstName": "Lucy Maud",
+  "authorLastName": "Montgomery",
+  "edition": 1,
+  "year": 1908,
+  "style": ["Hardcover", "Paperback"]
+},
+{
+  "isbn": "10006",
+  "title": "The Godfather",
+  "authorFirstName": "Mario",
+  "authorLastName": "Puzo",
+  "edition": 1,
+  "year": 1969,
+  "style": ["Hardcover", "Paperback"]
+}
+
+]

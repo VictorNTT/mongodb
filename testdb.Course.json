@@ -1,0 +1,19 @@
+[
+
+{
+  "_id": {
+    "$oid": "657cefdfee27d6dcc8ddd96e"
+  },
+  "code": "1010",
+  "name": "Web design"
+}
+,
+{
+  "_id": {
+    "$oid": "657cefdfee27d6dcc8ddd97e"
+  },
+  "code": "1030",
+  "name": "DB design"
+}
+
+]

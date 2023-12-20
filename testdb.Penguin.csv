@@ -1,0 +1,7 @@
+_id,isbn,title,authorFirstName,authorLastName,edition,year,style[0],style[1]
+6539e46e47f8c579667f207f,10001,For Whom The Bell Tolls,Earnest,Hemmingway,1,1948,soft paper,
+6539e46e47f8c579667f2080,10002,Farewell To Arms,Earnest,Hemmingway,3,1950,Hardcover,Paperback
+6539e46e47f8c579667f2081,10003,The Old Man and the Sea,Earnest,Hemmingway,1,1952,Hardcover,Paperback
+6539e46e47f8c579667f2082,10004,Harry Porter - Chamber of Secrets,Joanne,Rowling,1,1998,Hardcover,Paperback
+6539e46e47f8c579667f2083,10005,Anne of Green Gables,Lucy Maud,Montgomery,1,1908,Hardcover,Paperback
+6539e46e47f8c579667f2084,10006,The Godfather,Mario,Puzo,1,1969,Hardcover,Paperback
